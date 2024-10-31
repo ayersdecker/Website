@@ -7,9 +7,9 @@ function Footer() {
     return (
       <footer className="footer">
         <div className="container">
-          <span><p>Decker Ayers - {month}, {year} - All rights Reserved</p></span>
+          <span><p>Decker Ayers - {month}, {year} - All Rights Reserved - v0.0.1</p></span>
         </div>
-    </footer>
+      </footer>
     );
   }
   

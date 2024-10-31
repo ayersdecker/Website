@@ -17,13 +17,13 @@ function HomePage() {
             <Modal.Title>Modal Title</Modal.Title>
           </Modal.Header>
           <Modal.Body>
-            <p>Modal Body</p>
           </Modal.Body>
           <Modal.Footer>
             <Button variant='Danger' onClick={()=>setShowAbout(false)}>Close</Button>
           </Modal.Footer>
         </Modal>
 
+      
         <p>This site was built using React, Typescript, Bootstrap, and Github Pages.</p>
       </Stack>
     </body>
