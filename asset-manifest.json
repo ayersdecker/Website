@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Website/static/css/main.60f7d935.css",
+    "main.js": "/Website/static/js/main.1a000ebf.js",
+    "static/js/453.adc34edb.chunk.js": "/Website/static/js/453.adc34edb.chunk.js",
+    "static/media/ficus.png": "/Website/static/media/ficus.fe180c3a5fb58ea166ad.png",
+    "index.html": "/Website/index.html",
+    "main.60f7d935.css.map": "/Website/static/css/main.60f7d935.css.map",
+    "main.1a000ebf.js.map": "/Website/static/js/main.1a000ebf.js.map",
+    "453.adc34edb.chunk.js.map": "/Website/static/js/453.adc34edb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60f7d935.css",
+    "static/js/main.1a000ebf.js"
+  ]
+}
