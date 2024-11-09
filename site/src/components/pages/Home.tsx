@@ -1,5 +1,5 @@
 import '../../App.css';
-import { Stack, Image, Container, Card, Modal, Button } from 'react-bootstrap';
+import { Stack, Container, Modal, Button } from 'react-bootstrap';
 import { useState } from 'react';
 
 
